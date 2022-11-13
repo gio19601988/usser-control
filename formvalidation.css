@@ -1,0 +1,55 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing:content-box;
+    font-family: 'Poppins', sans-serif;
+  
+    background: #2749df;
+    top: 50%;
+    right: 50%;
+
+}
+.registration{
+    width: 9%;
+    max-width: 5px;
+    padding: 50px 30px 20px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+    
+  
+}
+
+.error-text{
+
+    top: 50%;
+    right: 50%;
+
+}
+
+.errorsuser{
+
+    top: 25%;
+    right: 50%;
+
+}
+
+.emailvaldiation{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.submit{
+    background: #a72963;
+    color: #fff;
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    padding: 10px 40px;
+    outline: 0;
+    cursor: pointer;
+    display: block;
+    margin: 30px auto 10px;
+}
